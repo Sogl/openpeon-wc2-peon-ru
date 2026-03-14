@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "wc2_peon_ru",
   "display_name": "Орк-батрак (Russian)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Орк-батрак из Warcraft II (русская озвучка от СПК)",
   "author": {
     "name": "Artyom Mezin",
@@ -58,17 +58,17 @@
         },
         {
           "file": "sounds/oyessir2.wav",
-          "label": "Лок-тар",
+          "label": "Дабу",
           "sha256": "856c8d559b29a8b08a9a8a9acf5d57c2c9588bdecea4f68dea6db606ac620d12"
         },
         {
           "file": "sounds/oyessir3.wav",
-          "label": "Смобу",
+          "label": "Лок-тар",
           "sha256": "8ba46672778055eec24762a9cfb1bcea326f8f99fbe6f91af9ee61c6a005208f"
         },
         {
           "file": "sounds/oyessir4.wav",
-          "label": "Дабу",
+          "label": "Смобу",
           "sha256": "b7c7696b65db5c4c9aa86a31308ceed16d9c037e806550af7829bd6ff6a7a4ec"
         }
       ]
