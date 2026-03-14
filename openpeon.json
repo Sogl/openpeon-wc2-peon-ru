@@ -1,0 +1,154 @@
+{
+  "cesp_version": "1.0",
+  "name": "wc2_peon_ru",
+  "display_name": "Орк-батрак (Russian)",
+  "version": "1.0.0",
+  "description": "Орк-батрак из Warcraft II (русская озвучка от СПК)",
+  "author": {
+    "name": "Artyom Mezin",
+    "github": "Sogl"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ru",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/pnready_m4.5db.wav",
+          "label": "Готов вкалывать!",
+          "sha256": "86ca8c708ea8678e068a43460492f08db5f4971e6a84bb5bbb43f8ce763e5754"
+        },
+        {
+          "file": "sounds/oready.wav",
+          "label": "Что прикажете, повелитель?",
+          "sha256": "5123ffc3e78763e9bbf588566bd58238ec5a0a7efda515cc647f28c14d031eff"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/owhat1.wav",
+          "label": "Иток",
+          "sha256": "1e3419c3bd8cb5f2e125ab71073e599b3433fc1fece6ccbcb47ddbeb0091b257"
+        },
+        {
+          "file": "sounds/owhat2.wav",
+          "label": "Зокток",
+          "sha256": "b3635628763fe4c338fa29ddfa889cb4020f5ff7424bb7382bfc861ef7291caa"
+        },
+        {
+          "file": "sounds/owhat3.wav",
+          "label": "Глор-дук",
+          "sha256": "74d5abca79964acffdb3a47fc5b3b24f193c86719c8ab018f6dc27df04f8a752"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/owrkdone.wav",
+          "label": "Работа выполнена!",
+          "sha256": "09e249ac77fc0d1c47b039f10cc6647d98bb62a15215f5b4eb8158e2f7fc9761"
+        },
+        {
+          "file": "sounds/oyessir1.wav",
+          "label": "Заг-заг",
+          "sha256": "3b932f8cf24712e3f3fc968a01703b98f7f11d033c1487c4c87fa1ae6a151099"
+        },
+        {
+          "file": "sounds/oyessir2.wav",
+          "label": "Лок-тар",
+          "sha256": "856c8d559b29a8b08a9a8a9acf5d57c2c9588bdecea4f68dea6db606ac620d12"
+        },
+        {
+          "file": "sounds/oyessir3.wav",
+          "label": "Смобу",
+          "sha256": "8ba46672778055eec24762a9cfb1bcea326f8f99fbe6f91af9ee61c6a005208f"
+        },
+        {
+          "file": "sounds/oyessir4.wav",
+          "label": "Дабу",
+          "sha256": "b7c7696b65db5c4c9aa86a31308ceed16d9c037e806550af7829bd6ff6a7a4ec"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/ohelp1.wav",
+          "label": "На нас напали!",
+          "sha256": "aabf9b46e27151fbc6dc40fbe7971212813c2d03c4f00e57fbe1dc6c8880d5a1"
+        },
+        {
+          "file": "sounds/ohelp2.wav",
+          "label": "Они рушат наш город!",
+          "sha256": "eb271affa9fcaa1a428e1c00d980f29d3954cb48134ddd1b2907a25e1df618eb"
+        },
+        {
+          "file": "sounds/odead.wav",
+          "label": "Ургх! (смерть)",
+          "sha256": "e469d9bc9010cadb0584e70430ba9a0fe4f8b418b44eb926e42517ba50b9fdbb"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/opissed1.wav",
+          "label": "Что-о-о?!",
+          "sha256": "f83ac3e50e67ab4b2473cab76d7f8dcb2ce69e993b21b00ddceb9604771976aa"
+        },
+        {
+          "file": "sounds/owhat4.wav",
+          "label": "Р-р-ру?",
+          "sha256": "df8aeeba231d8fab501242ecdb64de3e2393b8ea643dce70868896bfc6e10f72"
+        },
+        {
+          "file": "sounds/owhat6.wav",
+          "label": "Ур?",
+          "sha256": "06c10685a1e531eeb6a1e51f8cde34a050720f454930b6839a721a1d9d09ca61"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/owhat5.wav",
+          "label": "Ур-ур-уур!",
+          "sha256": "751ea82e5379a1c9703acefa9019b0449be0c08ac8ac47d19ba65ed1e9e99d40"
+        },
+        {
+          "file": "sounds/opissed6.wav",
+          "label": "У меня в брюхе урчит.",
+          "sha256": "701e853013698b7f11a5e5dd73954a9f526c615b1e9cb26a8c1e3513775712c5"
+        },
+        {
+          "file": "sounds/opissed4.wav",
+          "label": "И-хи-хи! Щекотно!",
+          "sha256": "6381a296a2d0f279d644bbd3abd98c02a1ee081ed7b738c92bb1fe1087d86697"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/opissed2.wav",
+          "label": "Полегче!",
+          "sha256": "add2bebbbd5f29875ce66729b52bf1cbfe5e2aa739b7742798a39686c0249f21"
+        },
+        {
+          "file": "sounds/opissed3.wav",
+          "label": "Промахнулся.",
+          "sha256": "5bf0f6535f70dce0f60248ca85c887d6d3c944dc79343d32e9552ef7bcd476e4"
+        },
+        {
+          "file": "sounds/opissed5.wav",
+          "label": "Я бы не делал этого, будь я на твоём месте!",
+          "sha256": "d125b6f93e4dc4716407f25bff4ac73f6790a30f021a51c8a6c2db7df3e72364"
+        }
+      ]
+    }
+  },
+  "icon": "icon.png"
+}
